@@ -1,0 +1,44 @@
+ public double totalSnowfallForYear(int year)
+ /**
+ * Determine the total amount of snowfall recorded in the given year. (20
+ * points)
+ *
+ * (HINT: What data structure would allow us to correspond an amount of snowfall
+ * with a year? How much snowfall is recorded in a year not found in the file?)
+ *
+ * @param year
+ * @return
+ */
+
+
+ public double averagePrecipitationForMonth(int month)
+ /**
+ * Determine the average (mean) total precipitation recorded for the given
+ * month. Be sure to include multi-day precipitation amounts. (Assume that all
+ * of the precipitation occurs on the date of the multi-date range - never
+ * divide it across months.) (20 points)
+ *
+ * @param month
+ * @return
+ */
+
+
+ public int lowestMostCommonHighForMonth(int month)
+ /**
+ * Return the most common (most often observed) high temperature seen in the
+ * given month. If there are two or more temperatures that are both seen the
+ * most number of times, return the lowest high temperature. (20 points)
+ *
+ * @param month Month
+ * @return highest most common high temperature seen in that month
+ */
+
+
+ public int highestHighForLow(int degrees)
+ /**
+ * For the given low temperature, find the highest high temperature seen with
+ * that low. (20 points)
+ *
+ * @param degrees Low temperature
+ * @return Highest high ever seen for that low temperature
+ */
