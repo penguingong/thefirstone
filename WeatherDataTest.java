@@ -7,16 +7,7 @@ import java.security.NoSuchAlgorithmException;
 import java.util.Arrays;
 import java.util.Scanner;
 
-/**
- * Test program for CS 143 Assignment 5 (Version of 11/13/2020 12:40 AM)
- * 
- * You may only use this program as a student of Martin Hock or David Anderson, CS 143 Winter
- * 2021. You may not give this program to any other people or companies (aside
- * from private storage).
- * 
- * Directions: Run this program from the same project source folder as your
- * WeatherData.java file.
- */
+
 public class WeatherDataTest {
 
 	private static final int f(int i) {
